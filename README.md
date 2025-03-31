@@ -1,5 +1,6 @@
 ## Hello, my name is Chris👋
 
+I use this location to document all my scripts and all of my projects.
 <!--
 **chrisbirdsong/chrisbirdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
