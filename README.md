@@ -3,7 +3,7 @@
 I use this location to document scripts and projects.
 
 ## What am I currently Working On
-Used Mac mini's continue to drop in price. They are a great low power compacte option for projects. I'm currrently building out a home server project usina a Mac mini and a cybersecurity lab project using a Mac mini.
+Used Mac mini's continue to drop in price. They are a great low power and compacte option for projects. I'm currrently building out a home server project usina a Mac mini and a cybersecurity lab project using a Mac mini.
 <!--
 **chrisbirdsong/chrisbirdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
