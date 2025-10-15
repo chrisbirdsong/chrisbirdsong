@@ -3,7 +3,7 @@
 I use this location to document scripts and projects.
 
 ## What am I currently Working On
-Used Mac mini's continue to drop in price. They are a great low power and compacte option for projects. I'm currrently building out a home server project usina a Mac mini and a cybersecurity lab project using a Mac mini.
+I've been expanding my homelab by upgrading domain controllers to server 2025, home network and lab network using windows DNS added Mac Mini's to run Ollama and Jellyfin. Standing up an internal Certifiacte Authority to do interanl SSL. 
 <!--
 **chrisbirdsong/chrisbirdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
